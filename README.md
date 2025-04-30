@@ -122,25 +122,18 @@ This will generate the optimized build in the `/dist` folder.
 
 ## 🌍 Live Demo
 
-> Add your Azure Static Web Apps live link here  
-> Example: [https://your-app-name.azurestaticapps.net](https://your-app-name.azurestaticapps.net)
+> [https://white-field-082808510.6.azurestaticapps.net]
 
 ---
 
 ## 📸 Screenshots
 
-You can add screenshots like this:
-
 ```md
-![No Project Selected](./src/assets/no-project.png)
-```
+![Landing Page]("D:\Learning\New_Project\Project_Management_App\public\Screenshot 2025-04-30 213926.png")
 
----
+![Adding Project]("D:\Learning\New_Project\Project_Management_App\public\Screenshot 2025-04-30 214319.png")
 
-## 📃 License
-
-This project is licensed under the **MIT License**.  
-Feel free to use and modify it as needed.
+![Added Project]("D:\Learning\New_Project\Project_Management_App\public\Screenshot 2025-04-30 214348.png")```
 
 ---
 
