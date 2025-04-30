@@ -125,7 +125,7 @@ This will generate the optimized build in the `/dist` folder.
 ## 🌍 Live Demo
 
 > Add your Azure Static Web Apps live link here  
-> Example: [https://your-app-name.azurestaticapps.net](https://your-app-name.azurestaticapps.net)
+> Example: [https://white-field-082808510.6.azurestaticapps.net](https://white-field-082808510.6.azurestaticapps.net)
 
 ---
 
