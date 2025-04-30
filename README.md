@@ -129,11 +129,11 @@ This will generate the optimized build in the `/dist` folder.
 ## 📸 Screenshots
 
 ```md
-![Landing Page]("D:\Learning\New_Project\Project_Management_App\public\Screenshot 2025-04-30 213926.png")
+![Landing Page]("Screenshot 2025-04-30 213926.png")
 
-![Adding Project]("D:\Learning\New_Project\Project_Management_App\public\Screenshot 2025-04-30 214319.png")
+![Adding Project]("Screenshot 2025-04-30 214319.png")
 
-![Added Project]("D:\Learning\New_Project\Project_Management_App\public\Screenshot 2025-04-30 214348.png")```
+![Added Project]("Screenshot 2025-04-30 214348.png")```
 
 ---
 
