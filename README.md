@@ -132,17 +132,11 @@ This will generate the optimized build in the `/dist` folder.
 ## 📸 Screenshots
 
 ```md
-![Project Overview](./public/Screenshot_2025-04-30_213926.png)
-![Task View](./public/Screenshot_2025-04-30_214319.png)
-![Add New Project](./public/Screenshot_2025-04-30_214348.png)
+![Project Overview](https://github.com/AniketP117/ProjectManagementApp/blob/master/public/Screenshot%202025-04-30%20213926.png)
+![Task View](https://github.com/AniketP117/ProjectManagementApp/blob/master/public/Screenshot%202025-04-30%20214319.png)
+![Add New Project](https://github.com/AniketP117/ProjectManagementApp/blob/master/public/Screenshot%202025-04-30%20214348.png)
 ```
 
----
-
-## 📃 License
-
-This project is licensed under the **MIT License**.  
-Feel free to use and modify it as needed.
 
 ---
 
