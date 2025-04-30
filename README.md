@@ -133,8 +133,11 @@ This will generate the optimized build in the `/dist` folder.
 
 ```md
 ![Project Overview](./public/Screenshot%202025-04-30%20213926.png)
+
 ![Task View](./public/Screenshot%202025-04-30%20214319.png)
+
 ![Add New Project](./public/Screenshot%202025-04-30%20214348.png)
+
 ```
 
 ---
