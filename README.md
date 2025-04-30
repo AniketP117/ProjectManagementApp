@@ -137,6 +137,12 @@ This will generate the optimized build in the `/dist` folder.
 ![Add New Project](https://github.com/AniketP117/ProjectManagementApp/blob/master/public/Screenshot%202025-04-30%20214348.png)
 ```
 
+---
+
+## 📃 License
+
+This project is licensed under the **MIT License**.  
+Feel free to use and modify it as needed.
 
 ---
 
