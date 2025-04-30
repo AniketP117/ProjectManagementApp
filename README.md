@@ -7,23 +7,23 @@ A fully functional and responsive **Project Management Application** built with 
 ## 🚀 Features
 
 - 🔨 Create and delete projects
-- ✅ Add, view, and manage tasks per project
+- ✅ Add, view, and manage tasks for each project
 - 🎨 Modern UI built with Tailwind CSS
 - ⚡ Lightning-fast dev experience via Vite
 - ☁️ Deployed to Azure Static Web Apps
-- 🔄 Continuous deployment using GitHub Actions
+- 🔄 Automatic deployment via GitHub Actions
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Tech             | Purpose                    |
-|------------------|-----------------------------|
-| **React**        | Frontend UI library         |
-| **Vite**         | Fast bundler & dev server   |
-| **Tailwind CSS** | Utility-first CSS framework |
-| **Azure SWA**    | Cloud hosting               |
-| **GitHub Actions** | CI/CD for deployment      |
+| Tech               | Purpose                    |
+|--------------------|-----------------------------|
+| **React**          | Frontend UI library         |
+| **Vite**           | Fast bundler & dev server   |
+| **Tailwind CSS**   | Utility-first CSS framework |
+| **Azure SWA**      | Cloud hosting               |
+| **GitHub Actions** | CI/CD for deployment        |
 
 ---
 
@@ -33,7 +33,9 @@ A fully functional and responsive **Project Management Application** built with 
 project-management-app/
 ├── dist/                   # Build output (after `npm run build`)
 ├── public/                 # Static assets
-│   └── favicon.svg         # App icon
+│   ├── Screenshot 2025-04-30 213926.png
+│   ├── Screenshot 2025-04-30 214319.png
+│   └── Screenshot 2025-04-30 214348.png
 ├── src/
 │   ├── assets/             # Images like 'no-project.png'
 │   ├── components/         # All UI components
@@ -122,18 +124,25 @@ This will generate the optimized build in the `/dist` folder.
 
 ## 🌍 Live Demo
 
-> [https://white-field-082808510.6.azurestaticapps.net]
+> Add your Azure Static Web Apps live link here  
+> Example: [https://your-app-name.azurestaticapps.net](https://your-app-name.azurestaticapps.net)
 
 ---
 
 ## 📸 Screenshots
 
 ```md
-![Landing Page]("Screenshot 2025-04-30 213926.png")
+![Project Overview](./public/Screenshot%202025-04-30%20213926.png)
+![Task View](./public/Screenshot%202025-04-30%20214319.png)
+![Add New Project](./public/Screenshot%202025-04-30%20214348.png)
+```
 
-![Adding Project]("Screenshot 2025-04-30 214319.png")
+---
 
-![Added Project]("Screenshot 2025-04-30 214348.png")```
+## 📃 License
+
+This project is licensed under the **MIT License**.  
+Feel free to use and modify it as needed.
 
 ---
 
@@ -149,8 +158,8 @@ Thanks to the following tools:
 
 ---
 
-## 📌 To-Do / Future Enhancements
+## 📌 To-Do / Roadmap
 
-- [ ] Add authentication (e.g., Azure AD or Firebase)
-- [ ] Add due dates and priorities to tasks
-- [ ] Integrate persistent backend (e.g., Supabase, Firebase)
+- [ ] Add authentication (Azure AD or Firebase for login)
+- [ ] Add due dates and priorities to improve task organization
+- [ ] Integrate a backend (e.g., Supabase or Firebase) for persistence
